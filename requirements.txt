@@ -1,0 +1,8 @@
+langchain
+streamlit
+faiss-cpu
+unstructured
+gpt_index
+bs4
+pinecone-client 
+datasets
