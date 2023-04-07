@@ -16,3 +16,8 @@ The code and strategies are explained here: https://xai.arya.ai/article/how-to-b
 
 We also did a walk through of the code along with explaining the concepts here: 
 https://youtu.be/cbCzN2r_eJk
+
+
+Note: 
+
+The content shared on this platform is provided for educational purposes only. It is not intended to be used for any other purpose. We do not guarantee the accuracy or completeness of the information provided, and we are not responsible for any loss or damage that may result from your reliance on it. Please be aware that the information provided is subject to change without notice. By using this platform, you acknowledge and agree that you use the content at your own risk and that you will not hold us liable for any loss or damage that may result from your use of the content.
