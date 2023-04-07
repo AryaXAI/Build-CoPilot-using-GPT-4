@@ -6,9 +6,13 @@ This library provides a good starting point to build CoPilots.
 
 # Here is a demo: 
 
+![AryaXAI Copilot Demo](https://user-images.githubusercontent.com/19322429/230650844-7cc9f0c4-8d89-41d3-b602-32158b2ef9cd.gif)
 
 
 
 
+Access the demo here: https://aryaxai-copilot.streamlit.app/
+The code and strategies are explained here: https://xai.arya.ai/article/how-to-build-copilot-using-gpt4
 
-Access the demo here. 
+We also did a walk through of the code along with explaining the concepts here: 
+https://youtu.be/cbCzN2r_eJk
